@@ -1,0 +1,12 @@
++-----------------------------------------------------------------------------------------------+
+| Arquivo: LEIAME.txt                                                                           |
+|                                                                                               |
+| Autores: Hernane Borges de Barros Pereira, Ludmilla Monfort Oliveira Sousa, Maíra Lima de     |
+| Souza, and Marcelo A. Moret                                                                   |
+|                                                                                               |
+| Última atualização: 08/03/2023.                                                               |
++-----------------------------------------------------------------------------------------------+
+
+O script "networkBuilding.r" (ou a sua versão notebook .ipynb) deve ser executado seguindo a sequência de comandos. 
+
+O script "efficiency.r" deve ser executado no momento em que for necessário efetuar o cálculos das eficiências local e global.
